@@ -1,4 +1,4 @@
-/* Today I Learned. - Entries.cpp
+/* Today I Learned
  *
  * The purpose of this program is to provide a history of things learned by me. Each day I will enter in what I have learned.
  *
@@ -7,7 +7,7 @@
  *						 itself if none of the viable options were selected.
  *
  *  Goals: 
- *		[x] Incorporate a cipher into the program so that even the initial password is bypassed, person will sEntriesl require the cipher to decode what is written.
+ *		[x] Incorporate a cipher into the program so that even if the initial password is bypassed, user will still require the cipher to decode stored entries.
  *		[ ] Incorporate basic text editing capabities into the program through a header file/class definition.
  *		[ ] Turn Entries into a subprogram to a larger program. Second item on the larger program can be anything, say, a calculator.
  *		[ ] Introduce a game (perhaps a card game).
